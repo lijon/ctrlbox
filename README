@@ -1,0 +1,2 @@
+This project contains an arduino firmware for a custom built controller and a commandline program to connect to it and translate the incoming data to OSC messages for control of environments like SuperCollider and PureData.
+

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="261"
+   name=""
+   committed-date="2007-05-04T21:52:21.871516Z"
+   url="svn://svn.berlios.de/arduino/tags/0008/targets/arduino"
+   last-author="mellis"
+   kind="dir"
+   uuid="fdd99716-2cf5-0310-8ea1-e7fa11872f6a"
+   repos="svn://svn.berlios.de/arduino"
+   revision="320"/>
+<entry
+   committed-rev="254"
+   name="wiring_serial.c"
+   text-time="2007-08-03T16:20:23.000000Z"
+   committed-date="2007-04-20T23:17:38.241729Z"
+   checksum="e7e3c55418b8af5a4853c227d79cb6bf"
+   last-author="mellis"
+   kind="file"
+   prop-time="2007-08-03T16:20:23.000000Z"/>
+<entry
+   committed-rev="257"
+   name="wiring_private.h"
+   text-time="2007-08-03T16:20:23.000000Z"
+   committed-date="2007-04-20T23:50:40.667886Z"
+   checksum="17c8131cbbefb9732cfd584fc95b3f7e"
+   last-author="mellis"
+   kind="file"
+   prop-time="2007-08-03T16:20:23.000000Z"/>
+<entry
+   committed-rev="254"
+   name="pins_arduino.h"
+   text-time="2007-08-03T16:20:23.000000Z"
+   committed-date="2007-04-20T23:17:38.241729Z"
+   checksum="eeaaeca997871fb2e878ebc1e2af3cb6"
+   last-author="mellis"
+   kind="file"
+   prop-time="2007-08-03T16:20:23.000000Z"/>
+<entry
+   committed-rev="254"
+   name="wiring.c"
+   text-time="2007-08-03T16:20:23.000000Z"
+   committed-date="2007-04-20T23:17:38.241729Z"
+   checksum="bae12843d9fdb0ec609e857baef36397"
+   last-author="mellis"
+   kind="file"
+   prop-time="2007-08-03T16:20:23.000000Z"/>
+<entry
+   committed-rev="254"
+   name="HardwareSerial.h"
+   text-time="2007-08-03T16:20:23.000000Z"
+   committed-date="2007-04-20T23:17:38.241729Z"
+   checksum="7ea14f1d21c4d31e85623e19031fb924"
+   last-author="mellis"
+   kind="file"
+   prop-time="2007-08-03T16:20:23.000000Z"/>
+<entry
+   committed-rev="254"
+   name="WProgram.h"
+   text-time="2007-08-03T16:20:23.000000Z"
+   committed-date="2007-04-20T23:17:38.241729Z"
+   checksum="ca2085749aa4465afdedd3bd35280942"
+   last-author="mellis"
+   kind="file"
+   prop-time="2007-08-03T16:20:23.000000Z"/>
+<entry
+   committed-rev="239"
+   name="main.cxx"
+   text-time="2007-08-03T16:20:23.000000Z"
+   committed-date="2007-01-12T17:58:39.017276Z"
+   checksum="b6e04c37d839ba4e2303fee1dba71c76"
+   last-author="mellis"
+   kind="file"
+   prop-time="2007-08-03T16:20:23.000000Z"/>
+<entry
+   committed-rev="254"
+   name="wiring.h"
+   text-time="2007-08-03T16:20:23.000000Z"
+   committed-date="2007-04-20T23:17:38.241729Z"
+   checksum="4c048425aef5056336f5cfbc6cda4c0b"
+   last-author="mellis"
+   kind="file"
+   prop-time="2007-08-03T16:20:23.000000Z"/>
+<entry
+   committed-rev="249"
+   name="WInterrupts.c"
+   text-time="2007-08-03T16:20:23.000000Z"
+   committed-date="2007-02-03T16:52:51.871781Z"
+   checksum="73d23ae2342d5e4fc4ef297d7bbc5329"
+   last-author="mellis"
+   kind="file"
+   prop-time="2007-08-03T16:20:23.000000Z"/>
+<entry
+   committed-rev="254"
+   name="wiring_pulse.c"
+   text-time="2007-08-03T16:20:23.000000Z"
+   committed-date="2007-04-20T23:17:38.241729Z"
+   checksum="bdfdfc90b79d7e2338d3f8e3428dbefd"
+   last-author="mellis"
+   kind="file"
+   prop-time="2007-08-03T16:20:23.000000Z"/>
+<entry
+   committed-rev="162"
+   name="WRandom.cpp"
+   text-time="2007-08-03T16:20:23.000000Z"
+   committed-date="2006-08-13T09:59:06.032697Z"
+   checksum="0d44dba49a614fe0558070173ad9862d"
+   last-author="mellis"
+   kind="file"
+   prop-time="2007-08-03T16:20:23.000000Z"/>
+<entry
+   committed-rev="161"
+   name="WConstants.h"
+   text-time="2007-08-03T16:20:23.000000Z"
+   committed-date="2006-07-09T12:39:27.429229Z"
+   checksum="6edfb37632e28f9410e6c9b3bcc8fb38"
+   last-author="mellis"
+   kind="file"
+   prop-time="2007-08-03T16:20:23.000000Z"/>
+<entry
+   committed-rev="254"
+   name="wiring_analog.c"
+   text-time="2007-08-03T16:20:23.000000Z"
+   committed-date="2007-04-20T23:17:38.241729Z"
+   checksum="c8360223a7959769c16d3d4305087344"
+   last-author="mellis"
+   kind="file"
+   prop-time="2007-08-03T16:20:23.000000Z"/>
+<entry
+   committed-rev="202"
+   name="binary.h"
+   text-time="2007-08-03T16:20:23.000000Z"
+   committed-date="2006-11-20T17:47:04.112072Z"
+   checksum="ee0370e0f92f1386f6aea06d0226f581"
+   last-author="mellis"
+   kind="file"
+   prop-time="2007-08-03T16:20:23.000000Z"/>
+<entry
+   committed-rev="254"
+   name="pins_arduino.c"
+   text-time="2007-08-03T16:20:23.000000Z"
+   committed-date="2007-04-20T23:17:38.241729Z"
+   checksum="9ce683ec6e3de37e7acf2c623841d63c"
+   last-author="mellis"
+   kind="file"
+   prop-time="2007-08-03T16:20:23.000000Z"/>
+<entry
+   committed-rev="254"
+   name="wiring_digital.c"
+   text-time="2007-08-03T16:20:23.000000Z"
+   committed-date="2007-04-20T23:17:38.241729Z"
+   checksum="33a6169083b72f02c1be4ad81058ffd3"
+   last-author="mellis"
+   kind="file"
+   prop-time="2007-08-03T16:20:23.000000Z"/>
+<entry
+   committed-rev="261"
+   name="Makefile"
+   text-time="2007-08-03T16:20:23.000000Z"
+   committed-date="2007-05-04T21:52:21.871516Z"
+   checksum="28dfaffc17651e20a3e1db14f4eb1025"
+   last-author="mellis"
+   kind="file"
+   prop-time="2007-08-03T16:20:23.000000Z"/>
+<entry
+   committed-rev="254"
+   name="wiring_shift.c"
+   text-time="2007-08-03T16:20:23.000000Z"
+   committed-date="2007-04-20T23:17:38.241729Z"
+   checksum="82c121fab0e55ce94143cc4a2db00e7f"
+   last-author="mellis"
+   kind="file"
+   prop-time="2007-08-03T16:20:23.000000Z"/>
+<entry
+   committed-rev="254"
+   name="HardwareSerial.cpp"
+   text-time="2007-08-03T16:20:23.000000Z"
+   committed-date="2007-04-20T23:17:38.241729Z"
+   checksum="58b78c5e578f8d311762e5eb75839d18"
+   last-author="mellis"
+   kind="file"
+   prop-time="2007-08-03T16:20:23.000000Z"/>
+</wc-entries>
